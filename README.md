@@ -17,7 +17,12 @@ Backend tarafı Spring Boot ile RESTful API olarak tasarlanmış, frontend taraf
 - JWT
 
 ### Frontend
-- (Kullandığın frontend teknolojisi)
+- React
+- JavaScript (ES6+)
+- Node.js & npm
+- Frontend Build Tool
+- HTML & CSS
+- REST API Entegrasyonu
 
 ## Project Structure
 ```text
