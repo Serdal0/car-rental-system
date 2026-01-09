@@ -1,0 +1,19 @@
+# Backend
+target/
+backend/target/
+*.log
+.env
+application.properties
+application.yml
+
+# Frontend
+node_modules/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+.project
+.classpath
+.settings/
