@@ -42,3 +42,28 @@ A scalable, full-stack car rental management platform designed to streamline veh
 1. Clone the repository:
    ```bash
    git clone [https://github.com/Serdal0/car-rental-system.git](https://github.com/Serdal0/car-rental-system.git)
+
+2. Configure your database settings in src/main/resources/application.properties:
+
+Properties
+spring.datasource.url=jdbc:postgresql://localhost:5432/car_rental_db
+spring.datasource.username=your_username
+spring.datasource.password=your_password
+
+
+3. Run the Spring Boot application:
+
+./mvnw spring-boot:run
+Frontend Setup
+Navigate to the frontend directory:
+
+4.
+cd frontend
+Install dependencies:
+
+5. 
+npm install
+Start the development server:
+
+6.
+npm run dev
